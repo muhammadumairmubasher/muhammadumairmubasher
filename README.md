@@ -24,12 +24,14 @@
 <h3 align="center">Frameworks, Libraries and Languages</h3>
 
 <p align="center">
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
- </br>
- <a href="https://www.w3schools.com/mysql/" target="_blank">  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>  </a>
- </br>
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/72/c-programming.png" alt="c" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" alt="asp.net" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/72/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>  </a> 
- </br>
+   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+</br>
+ <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"> <img    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" alt="asp.net" width="40" height="40"/>
+</br>
+ <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/72/c-programming.png" alt="c" width="40" height="40"/> </a>
+ </a><a href="https://www.w3schools.com/mysql/" target="_blank">  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>  </a>
+ <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/72/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>  </a> 
+</br>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/72/css3.png" alt="css3" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactJS" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
