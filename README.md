@@ -39,6 +39,9 @@
  <a href="https://angular.io/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="40" height="40"/> 
  </a><a href="https://www.javascript.com/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40"  height="40"/></a><a href="https://dotnet.microsoft.com/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="dotnet" width="40" height="40"/></a>
 </br>
+<a href="https://www.w3schools.com/sql/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="40" height="40"/>  </a>
+<a href="https://developer.android.com/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/>  </a>
+</br>
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>  </a>
 </br>
 
