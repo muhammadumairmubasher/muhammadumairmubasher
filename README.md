@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher&label=Profile+views&color=red&style=flat" alt="Muhammadumairmubasher" /> </p>
 
-- 📝🖋📖 I currently Student of ** BSSE - Bachelor of Science in Software Engineering from Punjab University College of Information Technology (PUCIT), Lahore, Pakistan**
+- 📖 I currently Student of **BSSE - Bachelor of Science in Software Engineering from Punjab University College of Information Technology (PUCIT), Lahore, Pakistan**
 
 - 🔭 I’m currently working on **my own Market products**
 
-- 🌱 Lately, I'm learning **Flutter**
+- 🌱 Lately, I'm learning **Android, React js and ASP.NET Core , Full Stack Web Development and Mobile Computing**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/mkumail1)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/muhammadumairmubasher)
 
-- 💬 Ask me about **React, Full Stack Development, Android, ML, Cloud Native Computing**
+- 💬 Ask me about **React, Full Stack Development, Android, C/C++, OOP, Web Engineering**
 
-- 📫 Reach me via [Email](mailto:mkumailofficial@gmail.com)
+- 📫 Reach me via [Email](mailto:muhamadumair7445@gmail.com)
 
-- 📄 Know about my experiences [watch my resume](https://muhammadkumail.com/resume)
+- 📄 Know about my experiences [watch my resume]()
 
 - ⚡ Fun fact **I love to speak publically**
 
