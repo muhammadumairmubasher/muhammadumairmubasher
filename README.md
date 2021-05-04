@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Kumail</h1>
-<h3 align="center">I am a MERN Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Umair Mubasher</h1>
+<h3 align="center">Self Learner|Software Engineer |Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=red&style=flat" alt="mkumail1" /> </p>
 
 - 🌐 I currently represent NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
 
