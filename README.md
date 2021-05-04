@@ -1,5 +1,7 @@
-# Hi👋, I'm Muhammad Umair Mubasher
 
+<p align="center"> 
+  # Hi👋, I'm Muhammad Umair Mubasher
+</p>
 <!--
 **muhammadumairmubasher/muhammadumairmubasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
