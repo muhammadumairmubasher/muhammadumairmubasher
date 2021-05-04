@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair Mubasher</h1>
 <h3 align="center">Self Learner | Software Engineer | Student</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mumairmubasher" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/mumairmubasher?trk=profile-badge">Muhammad Umair Mubasher</a></div>
               
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher&label=Profile+views&color=red&style=flat" alt="Muhammadumairmubasher" /> </p>
 
