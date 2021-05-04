@@ -23,7 +23,7 @@
 
 <h3 align="center">Frameworks, Libraries and Languages</h3>
 
-<p align="center">
+<div align="center">
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
 </br>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -47,14 +47,14 @@
 </br>
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>  </a>
 </br>
+
 <h3>Software and Tools</h3>
-</br>
 <img alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"/>
 <img alt="MySQL"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" height="40"/>
 <img alt="Sql Server" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" width="40" height="40"/>
 <img alt="npm" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="40" height="40"/>
 <img  alt="vscode"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/>
-
+</div>
 ---
 <div align="center">
  <details open>
