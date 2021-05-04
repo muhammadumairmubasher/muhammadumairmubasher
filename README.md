@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [watch my resume]()
 
-- ⚡ Fun fact **I love to speak publically**
+- ⚡ Fun fact **I love to Eat, Sleep and Code**
 
 <!--Update Profile
 <h3 align="left">Languages and Tools:</h3>
