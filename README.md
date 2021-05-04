@@ -35,7 +35,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://babeljs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" alt="babel" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank"> <img    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/> </a>
-
 <br>
  <a href="https://angular.io/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="40" height="40"/> 
  </a>
