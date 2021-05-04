@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher&label=Profile+views&color=red&style=flat" alt="Muhammadumairmubasher" /> </p>
 
-- 🌐 I currently represent NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
+- 📝🖋📖 I currently Student of ** BSSE - Bachelor of Science in Software Engineering from Punjab University College of Information Technology (PUCIT), Lahore, Pakistan**
 
 - 🔭 I’m currently working on **my own Market products**
 
