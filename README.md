@@ -47,7 +47,7 @@
 </br>
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>  </a>
 </br>
-<b>Software and Tools</b>
+<h3>Software and Tools</h3>
 </br>
 <img alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"/>
 <img alt="MySQL"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" height="40"/>
