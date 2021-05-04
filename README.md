@@ -36,13 +36,13 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=muhammadumairmubasher&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumairmubasher&theme=tokyonight">
- 
 </p>
+ 
 </details>
-
 <details> 
   <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumairmubasher" alt="muhammadumairmubasher" /></a></p>
+  <div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumairmubasher"        alt="muhammadumairmubasher" /></a>
+  </div>
 </details>
  
  <div align="center">
