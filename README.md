@@ -32,7 +32,7 @@
 ---
 <div align="center">
  <details open>
-  <summary> 😇 <b>My Github Stats</b>: </summary><br>
+  <summary> 😇 <b>My Github Stats</b> </summary><br>
   <p align = "center">
    <img src = "https://github-readme-stats.vercel.app/api?username=muhammadumairmubasher&show_icons=true&theme=tokyonight&line_height=27">
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumairmubasher&theme=tokyonight">
@@ -43,8 +43,8 @@
 ---
 <div align="center">
  <details> 
-  <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-  <div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumairmubasher"        alt="muhammadumairmubasher" /></a>
+  <summary> 🏆 <b>My trophy stats so far</b> </summary>
+  <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumairmubasher" alt="muhammadumairmubasher" /></a>
   </div>
  </details>
 </div>
