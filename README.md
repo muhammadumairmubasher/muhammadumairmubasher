@@ -30,22 +30,27 @@
 </br>
 
 ---
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=muhammadumairmubasher&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumairmubasher&theme=tokyonight">
-</p>
- 
-</details>
-<details> 
+<div align="center">
+ <details open>
+  <summary> 😇 <b>My Github Stats</b>: </summary><br>
+  <p align = "center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=muhammadumairmubasher&show_icons=true&theme=tokyonight&line_height=27">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumairmubasher&theme=tokyonight">
+  </p>
+ </details>
+<div>
+
+---
+<div align="center">
+ <details> 
   <summary> 🏆 <b>My trophy stats so far</b>: </summary>
   <div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumairmubasher"        alt="muhammadumairmubasher" /></a>
   </div>
-</details>
- 
- <div align="center">
+ </details>
+</div>
+
+---
+<div align="center">
 <h3>Connect with me:</h3>
   <a href="https://twitter.com/mumairmubasher" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mumairmubasher" height="30" width="40" /></a>
   <a  href="https://linkedin.com/in/mumairmubasher" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mumairmubasher" height="30" width="40" /></a>
