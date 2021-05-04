@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair Mubasher</h1>
 <h3 align="center">Self Learner | Software Engineer | Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher=Profile%20views&color=red&style=flat" alt="muhamamdumairmubasher" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher&label=UMAIR+MUBASHER" /> </p>
 
 - 🌐 I currently represent NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
 
