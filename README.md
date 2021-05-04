@@ -26,24 +26,18 @@
 <p align="center">
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
  <br>
- 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/72/c-programming.png" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/72/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>  </a>
- 
+ <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/72/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>  </a> 
  </br>
- 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/72/css3.png" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/html/" target="_blank"> <img    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- 
  <br>
- 
  <a href="https://angular.io/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="40" height="40"/> 
  </a>
  <a href="https://dotnet.microsoft.com/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="dotnet" width="40" height="40"/></a>
  </br>
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>  </a>
-
 </br>
 
 ---
