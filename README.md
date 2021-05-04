@@ -39,7 +39,7 @@
 
 <details> 
   <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkumail1" alt="mkumail1" /></a></p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumairmubasher" alt="muhammadumairmubasher" /></a></p>
 </details>
  
  <p align="left">
