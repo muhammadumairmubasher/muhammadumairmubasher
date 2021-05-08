@@ -61,7 +61,7 @@
  <details open>
   <summary> 😇 <b>My Github Stats</b> </summary><br>
    <div align = "center">
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumairmubasher&theme=tokyonight">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumairmubasher&theme=tokyonight&layout=compact">
     </div></br>
    <div align = "center">
         <img src = "https://github-readme-stats.vercel.app/api?username=muhammadumairmubasher&show_icons=true&theme=tokyonight&line_height=27">
