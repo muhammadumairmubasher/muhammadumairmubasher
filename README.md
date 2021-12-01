@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/muhammadumairmubasher)
+- 👨‍💻 All of my projects are available at [GitHub](/muhammadumairmubasher)
 
 - 💬 Ask me about **React, Full Stack Development, Android, C/C++, Java, OOP, Web Engineering**
 
