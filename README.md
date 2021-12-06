@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I love to read, eat, sleep and Code**
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <h3 align="center">Frameworks, Libraries and Languages</h3>
 
 <div align="center">
