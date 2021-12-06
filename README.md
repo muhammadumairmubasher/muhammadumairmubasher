@@ -2,7 +2,7 @@
 <h3 align="center">Self Learner | Software Engineer | Student</h3>
               
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher&label=Profile+views&color=red&style=flat" alt="Muhammadumairmubasher" /> </p>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 - 📖 I currently Student of **BSSE - Bachelor of Science in Software Engineering from Punjab University College of Information Technology (PUCIT), Lahore, Pakistan**
 
 - 🔭 I’m currently working on **my own Market products**
@@ -20,8 +20,6 @@
 - 📄 Know about my experiences [watch my resume]()
 
 - ⚡ Fun fact **I love to read, eat, sleep and Code**
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <h3 align="center">Frameworks, Libraries and Languages</h3>
 
