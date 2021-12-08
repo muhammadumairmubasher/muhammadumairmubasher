@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair Mubasher</h1>
 <h3 align="center">Self Learner | Software Engineer | Student</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher&label=Profile+views&color=red&style=flat" alt="Muhammadumairmubasher" /></p>
 📖 I currently Final Year Student of BSSE - Bachelor of Science in Software Engineering from Punjab University College of Information Technology (PUCIT), Lahore, Pakistan. 
 
