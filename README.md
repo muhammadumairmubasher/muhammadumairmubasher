@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair Mubasher</h1>
 <h3 align="center">Self Learner | Software Engineer | Student</h3>
-              
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher&label=Profile+views&color=red&style=flat" alt="Muhammadumairmubasher" /> </p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-- 📖 I currently Student of **BSSE - Bachelor of Science in Software Engineering from Punjab University College of Information Technology (PUCIT), Lahore, Pakistan**
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher&label=Profile+views&color=red&style=flat" alt="Muhammadumairmubasher" /></p>
+📖 I currently Final Year Student of BSSE - Bachelor of Science in Software Engineering from Punjab University College of Information Technology (PUCIT), Lahore, Pakistan. 
 
-- 🔭 I’m currently working on **my own Market products**
+- 🔭 I’m currently working on **my own products [National Computing Educational Portal (NCEP)](https://github.com/muhammadumairmubasher/NCEP)**
 
-- 🌱 Lately, I'm learning **Android, React js and ASP.NET Core , Full Stack Web Development and Mobile Computing**
+- 🌱 Lately, I'm learning **ReactJS, NodeJS and C# ASP.NET Core, MERN | Full Stack Web Development, android and Mobile Computing**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
 - 👨‍💻 All of my projects are available at [GitHub](../muhammadumairmubasher)
 
-- 💬 Ask me about **React, Full Stack Development, Android, C/C++, Java, OOP, Web Engineering**
+- 💬 Ask me about **React, MERN | Full Stack Development, Android, C/C++, Java, OOP, Web Engineering**
 
 - 📫 Reach me via [Email](mailto:muhamadumair7445@gmail.com)
 
 - 📄 Know about my experiences [watch my resume]()
 
-- ⚡ Fun fact **I love to read, eat, sleep and Code**
+- ⚡ Fun fact **I love to watch, read, eat, sleep and Code**
 
 <h3 align="center">Frameworks, Libraries and Languages</h3>
 
