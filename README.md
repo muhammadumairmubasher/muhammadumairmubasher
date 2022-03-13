@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairmubasher&label=Profile+views&color=red&style=flat" alt="Muhammadumairmubasher" /></p>
 📖 I currently Final Year Student of BSSE - Bachelor of Science in Software Engineering from Punjab University College of Information Technology (PUCIT), Lahore, Pakistan. 
 
-- 🔭 I’m currently working on **my own products [National Computing Educational Portal (NCEP)](https://github.com/muhammadumairmubasher/NCEP)**
+- 🔭 I’m currently working on **my own products [National Computing Educational Portal (NCEP)](http://ncep.herokuapp.com)**
 
 - 🌱 Lately, I'm learning **ReactJS, NodeJS and C# ASP.NET Core, MERN | Full Stack Web Development, android and Mobile Computing**
 
